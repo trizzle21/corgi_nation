@@ -3,7 +3,7 @@ Corgi Nation is a two parted project, a web scraper that pulls in a bunch of Cor
 
 
 ## Project Version
-Pre alpha
+Pre alpha, in dev
 
 ##Configuration
 
